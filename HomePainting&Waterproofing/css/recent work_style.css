@@ -1,0 +1,157 @@
+*{
+	padding:0;
+	margin: 0;
+	font-family: 'Dosis',sans-serif;
+}
+body{
+	background-color:white;
+}
+
+header{
+	width: 100%;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-size: cover;
+	font-size: 25px;
+
+}
+header img{
+	width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.header-menu{
+	width: 100%;
+	height: 115px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	background-color: #1e1e2f;
+	/*border: 1px solid red;*/
+}
+
+.logo{
+	margin-top: 20px;
+	margin-left: 20px;
+	width: 20%;
+	color: #fff;
+	text-align: center;	
+	/*border: 1px solid red;*/
+}
+
+.logo img{
+	height: 50px;
+	width:60px; 
+}
+
+
+
+
+*{
+	padding:0;
+	margin: 0;
+	font-family: 'Dosis',sans-serif;
+}
+body{
+	background-color:white;
+}
+
+header{
+	width: 100%;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-size: cover;
+	font-size: 25px;
+
+}
+header img{
+	width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.header-menu{
+	width: 100%;
+	height: 115px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	background-color: #1e1e2f;
+	/*border: 1px solid red;*/
+}
+
+.logo{
+	margin-top: 20px;
+	margin-left: 20px;
+	width: 20%;
+	color: #fff;
+	text-align: center;	
+	/*border: 1px solid red;*/
+}
+
+.logo img{
+	height: 50px;
+	width:60px; 
+}
+
+.menu-list{
+	width: 80%;
+	text-align: right;
+	padding-right: 80px;
+}
+.menu-list li{
+	display: inline;
+	padding-left: 20px;
+	letter-spacing: 2px;
+}
+
+
+.menu-list a:hover{
+	color: red;
+}
+.menu-list a{
+	text-decoration: none;
+	color: #fff;
+	font-size: 25px;
+	padding-right: 10px;
+	text-decoration: none;
+
+}
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto ;
+    background-color: white;
+}
+.grid-item {
+    background-color: white;
+    padding: 10%;
+    font-size: 25px;
+    color: #black;
+    line-height: 60px;
+}
+.grid-item img{
+	width: 100%;
+	height: 100%
+}
+
+#iphone-11{
+	padding-top: 0%;
+	margin-top: -7%;
+}
+#iphone-11pro{
+	padding-top: 0%;
+	margin-top: -10%;
+}
+#iphone-11pro-text{
+	margin-top: -6%;
+}
+#main-footer{
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+	padding: 20px; 
+	text-orientation:center ;
+}
